@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835474988155",
+    "project_id": "login-signup---sigai",
+    "storage_bucket": "login-signup---sigai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835474988155:android:ee953ab9a1c0e1be0c16de",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835474988155-dd01uacsfu4lgqkrglhvcjha056dgsn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPoYD3_FDMdwGnywcSOR0-iHmlrMYf0I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835474988155-dd01uacsfu4lgqkrglhvcjha056dgsn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
